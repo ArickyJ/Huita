@@ -19,4 +19,24 @@ label start:
 
     e "Добавьте сюжет, изображения и музыку и отправьте её в мир!"
 
+    e '''
+        lgnldrglglgn nvfjdngkdjgnkj kjnjrnfs fkjf kwjfhwejhflfnj
+
+        fjsnfkjsnkjsbkjgsbgkjsbs kjrhfwloiehfnwlkiefnfkn
+
+        slknglksnglkfng
+
+        mflkgn
+
+        nfksnffjkwehogiw
+
+        ...
+
+        ARRRRRRRRRRr
+
+        Bye
+    '''
+
+    
+
     return
