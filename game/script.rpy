@@ -37,6 +37,6 @@ label start:
         Bye
     '''
 
-    
+    e "povezlo povezlo"
 
     return
